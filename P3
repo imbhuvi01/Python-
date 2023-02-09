@@ -1,0 +1,10 @@
+#Program to add two entered integer values.
+Num1 = int(input("Enter first integer value: "))
+Num2 = int(input("Enter second integer value: "))
+A = Num1 + Num2
+print("Addition of two integer values is: ",A)
+
+OUTPUT:
+Enter first integer value: 8
+Enter second integer value: 8
+Addition of two integer values is:  16
