@@ -1,0 +1,9 @@
+#Program to print two different strings “Hello” and “World” in different lines.
+a='Hello'
+b="World"
+print(f'''{a}\n{b}''')
+
+OUTPUT:
+Hello
+World
+> 
